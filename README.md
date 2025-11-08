@@ -1,4 +1,4 @@
-# Neuro_Trace
+# Neuro Trace
 
 An AI-Powered Cognitive Health Assessment Platform that combines clinical data analysis with handwriting analysis for early detection of cognitive decline.
 
