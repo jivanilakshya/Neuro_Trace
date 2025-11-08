@@ -107,7 +107,15 @@ Neuro_Trace/
     └── preprocessor.pkl
 ```
 
-## 🔧 API Endpoints
+## � Download Models
+
+Pre-trained model files are large and may be hosted separately. You can download the models used by this project from the Google Drive folder:
+
+https://drive.google.com/drive/folders/1ReZ96bGOH-uenS8uMQVVs_UxtLQYTK7O?usp=sharing
+
+Place the downloaded model files into the `Models/` directory before starting the backend.
+
+## �🔧 API Endpoints
 
 - `POST /predict/json`: Prediction using clinical features
 - `POST /predict/file`: Prediction using handwriting image
