@@ -1,0 +1,41 @@
+# Ignore common ML model artifacts and large binary files
+# Place this file in the Models/ directory to avoid committing model files.
+
+# Keras / TensorFlow model files
+*.h5
+*.hdf5
+*.keras
+# PyTorch
+*.pt
+*.pth
+
+# Checkpoints
+*.ckpt
+*.ckpt.index
+
+# TensorFlow protobufs / frozen graphs
+*.pb
+
+# ONNX / TFLite
+*.onnx
+*.tflite
+
+# Scikit-learn / joblib / pickle
+*.joblib
+*.pkl
+*.sav
+
+# NumPy arrays
+*.npy
+*.npz
+
+# Other binaries
+*.bin
+*.weights
+
+# Keep the .gitignore itself
+!.gitignore
+
+# Note: If model files are already tracked by git, add and run in repo root:
+#   git rm --cached Models/<model-file>
+# then commit to stop tracking them. This file only prevents new files from being added.
