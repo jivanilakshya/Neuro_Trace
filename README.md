@@ -113,6 +113,11 @@ Pre-trained model files are large and may be hosted separately. You can download
 
 https://drive.google.com/drive/folders/1ReZ96bGOH-uenS8uMQVVs_UxtLQYTK7O?usp=sharing
 
+### Demo Video
+
+Watch the demo video to see Neuro Trace in action:
+- https://drive.google.com/file/d/1eDKpqakS1GnWrGnVoT4u8xolGb_Hy8Tk/view?usp=sharing
+
 Place the downloaded model files into the `Models/` directory before starting the backend.
 
 ## �🔧 API Endpoints
