@@ -116,7 +116,7 @@ https://drive.google.com/drive/folders/1ReZ96bGOH-uenS8uMQVVs_UxtLQYTK7O?usp=sha
 ### Demo Video
 
 Watch the demo video to see Neuro Trace in action:
-- https://drive.google.com/file/d/1eDKpqakS1GnWrGnVoT4u8xolGb_Hy8Tk/view?usp=sharing
+- [https://drive.google.com/file/d/1eDKpqakS1GnWrGnVoT4u8xolGb_Hy8Tk/view?usp=sharing](https://drive.google.com/file/d/1eDKpqakS1GnWrGnVoT4u8xolGb_Hy8Tk/view?usp=sharing)
 
 Place the downloaded model files into the `Models/` directory before starting the backend.
 
