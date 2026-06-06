@@ -123,21 +123,6 @@ The application will be accessible at `http://localhost:3000`.
 
 ---
 
-## 🎤 Interview Preparation (Golden Nuggets)
-
-### How to explain this project in 1 minute?
-> "I developed **Neuro Trace**, a multimodal AI system for early dementia detection. It solves the problem of late-stage diagnosis by combining Computer Vision for handwriting analysis with an MLP for clinical data. I built the backend using FastAPI and the frontend with React. The core innovation is the ensemble approach, which fuses image and tabular features to achieve a 95% accuracy rate."
-
-### Why this approach?
-- "I chose **Late Fusion** because it allows each model branch to specialize in its specific data type before the meta-classifier (XGBoost) makes the final decision."
-
-### Key Technical Decisions
-- **FastAPI**: Speed and native async support.
-- **ConvNeXt**: Superior performance in capturing fine details in drawing tests.
-- **XGBoost Meta-Model**: Handles high-level feature correlations better than a standard neural network.
-
----
-
 ## 🏁 Conclusion
 Neuro Trace demonstrates the power of combining clinical expertise with Deep Learning. This project taught me the complexities of multimodal data fusion, the importance of model interpretability in healthcare, and how to build a full-stack AI application from scratch.
 
